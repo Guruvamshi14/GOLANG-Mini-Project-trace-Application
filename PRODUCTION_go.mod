@@ -1,6 +1,6 @@
-module go-test
+module your-service-name
 
-go 1.24.1
+go 1.21
 
 require (
 	github.com/Guruvamshi14/Trace-Implementation-GOLANG v0.0.0-20250407062049-bd17cf59f6a0
